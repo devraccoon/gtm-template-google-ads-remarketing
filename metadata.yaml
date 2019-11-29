@@ -1,5 +1,5 @@
 ﻿homepage: "https://raccoon.ag"
-documentation: ""
+documentation: "https://github.com/devraccoon/gtm-template-google-ads-remarketing/blob/master/README.md"
 versions:
-  - sha: 
+  - sha: 1e6ba83c00bac0ed0655baeb356416c7bca417dd
     changeNotes: Initial release.
